@@ -18,16 +18,18 @@ I'll be posting general solutions to all (or atleast as many as I can) puzzles w
 
 | DAY | PUZZLE |
 |:---:|:-------------------|
-| [1](1) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)* |
-| [10](10) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)* |
+| [1](2015/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)* |
+| [10](2015/10.php) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)* |
 </details>
+
+
 
 <details>
   <summary><h3>2016</h3> (<i>click to expand</i>)</summary>
 
 | DAY | PUZZLE |
 |:---:|:-------------------|
-| [1](1) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)* |
-| [10](10) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)* |
+| [1](2016/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)* |
+| [10](2016/10.php) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)* |
 </details>
   
