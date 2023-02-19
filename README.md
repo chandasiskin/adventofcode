@@ -7,7 +7,7 @@ If you haven't tried these yet, I would highly recommend you to give these a go!
 
 &nbsp;
 
-I'll be posting general solutions to all (or atleast as many as I can) puzzles with explanations and comments.
+I'll be posting general solutions to all (or at least as many as I can) puzzles with explanations and comments.
 
 &nbsp;
 
@@ -16,20 +16,7 @@ I'll be posting general solutions to all (or atleast as many as I can) puzzles w
 <details>
   <summary><h3>2015</h3> (<i>click to expand</i>)</summary>
 
-| DAY | PUZZLE |
-|:---:|:-------------------|
-| [1](2015/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)* |
-| [10](2015/10.php) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)* |
+|        DAY        | PUZZLE                                                          |
+|:-----------------:|:----------------------------------------------------------------|
+| [01](2015/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)*         |
 </details>
-
-
-
-<details>
-  <summary><h3>2016</h3> (<i>click to expand</i>)</summary>
-
-| DAY | PUZZLE |
-|:---:|:-------------------|
-| [1](2016/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)* |
-| [10](2016/10.php) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)* |
-</details>
-  
