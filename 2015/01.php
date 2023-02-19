@@ -23,7 +23,6 @@
     
     /**
      * Part 1 is to calculate what floor he ends up on when all moves are made.
-     *
      * We do this by starting at floor 0, loop through each character in input and increment the floor by one for each "(" and decrement for each ")".
      *
      *
