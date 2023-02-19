@@ -16,7 +16,8 @@ I'll be posting general solutions to all (or at least as many as I can) puzzles 
 <details>
   <summary><h3>2015</h3> (<i>click to expand</i>)</summary>
 
-|        DAY        | PUZZLE                                                          |
-|:-----------------:|:----------------------------------------------------------------|
-| [01](2015/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)*         |
+|        DAY        | PUZZLE                                                                     |
+|:-----------------:|:---------------------------------------------------------------------------|
+| [01](2015/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)*                    |
+| [02](2015/02.php) | *[I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)* |
 </details>
