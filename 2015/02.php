@@ -28,9 +28,9 @@
      *
      * ** SPOILER **
      * In part 2 we need to calculate how much ribbon the elves need.
-     * The amount is 2*<smalles side> + 2*<second smallest side> + a bow (<volume of the present (l*w*h)>)
+     * The amount is 2*<smallest side> + 2*<second smallest side> + a bow (<volume of the present (l*w*h)>)
      */
-    function solve($input, $part2 = false) {
+    function solve($input) {
         $paperNeeded = 0;
         $ribbonNeeded = 0;
         
@@ -64,7 +64,7 @@
     
     
     
-    $res = solve($input); // Calculate both part 1 and 2 simultaniously
+    $res = solve($input); // Calculate both part 1 and 2 simultaneously
     
     
     
