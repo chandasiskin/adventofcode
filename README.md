@@ -8,9 +8,12 @@ If you haven't tried these yet, I would highly recommend to give these a go!
 &nbsp;
 
 I'll be posting general solutions to all (or at least as many as I can) puzzles with explanations and comments.
+
 My goal is that you can copy the code into any online PHP-compiler, adjust to your input-data, press run and get the correct answer immediately (more or less).
+
+I strive to write code that completes both parts in less than a second.
+
 There will always be some puzzles with edge-cases that my code doesn't cover. If you find any, please let me know!
-I strive to write code that completes both parts in less than a second.  
 
 &nbsp;
 
@@ -26,4 +29,5 @@ I strive to write code that completes both parts in less than a second.
 | [03](2015/03.php) | *[Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3)* |
 | [04](2015/04.php) | *[The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)*             |
 | [05](2015/05.php) | *[Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5)* |
+| [06](2015/06.php) | *[Probably a Fire Hazard](https://adventofcode.com/2015/day/6)*                 |
 </details>
