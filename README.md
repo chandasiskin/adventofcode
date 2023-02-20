@@ -3,11 +3,14 @@
 
 *[adventofcode.com/about](https://adventofcode.com/about)*
 
-If you haven't tried these yet, I would highly recommend you to give these a go!
+If you haven't tried these yet, I would highly recommend to give these a go!
 
 &nbsp;
 
 I'll be posting general solutions to all (or at least as many as I can) puzzles with explanations and comments.
+My goal is that you can copy the code into any online PHP-compiler, adjust to your input-data, press run and get the correct answer immediately (more or less).
+There will always be some puzzles with edge-cases that my code doesn't cover. If you find any, please let me know!
+I strive to write code that completes both parts in less than a second.  
 
 &nbsp;
 
