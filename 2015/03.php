@@ -34,6 +34,7 @@
      * In our case, up increases y-value and right increases x-value
      *
      *
+     *
      * ** SPOILER **
      * In part 2 we do the same thing as in part 1, except we get help from Robo-Santa.
      * Santa does the first move, and from there on Santa and Robo-Santa take turns moving.
