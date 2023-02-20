@@ -22,7 +22,7 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 <details>
   <summary><h3>2015</h3> (<i>click to expand</i>)</summary>
 
-|        DAY        | PUZZLE                                                                          |
+|     SOLUTION      | PUZZLE                                                                          |
 |:-----------------:|:--------------------------------------------------------------------------------|
 | [01](2015/01.php) | *[Not Quite Lisp](https://adventofcode.com/2015/day/1)*                         |
 | [02](2015/02.php) | *[I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)*      |
