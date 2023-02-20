@@ -22,13 +22,17 @@
     
     /**
      * For part 1 the elves need to know how much wrapping-paper they need.
-     * For each present they need 2*l*w + 2*w*h + 2*h*l (where l = length, w = width, h = height) plus a little extra.
+     * For each present they need 2*l*w + 2*w*h + 2*h*l (where l = length, w = width, h = height).
+     * They also need a little extra, just in case.
      * The extra is the size of the smallest area.
+     * To get the total amount of wrapping paper, we just loop thrugh each present,
+     * calculate the paper needed for that particular present, and sum it into the total.
+     *
      *
      *
      * ** SPOILER **
      * In part 2 we need to calculate how much ribbon the elves need.
-     * The amount is 2*<smallest side> + 2*<second smallest side> + a bow (<volume of the present (l*w*h)>)
+     * The amount is 2*<smallest side> + 2*<second smallest side> + a bow (the bow is <volume of the present (l*w*h)>)
      */
     function solve($input) {
         $paperNeeded = 0;
