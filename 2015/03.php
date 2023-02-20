@@ -23,8 +23,11 @@
     
     /**
      * In the first part we need to calculate how many houses get at least one present.
-     * We do hits by creating a 2D-map (array with x- and y-coordinates) in this format: $map[<y>][<x>] = <visited>
-     * This way, we don't have to worry about duplicates. If $map[<y>][<x>] is not set, we set it, otherwise we just skip it.
+     * We create an array where we store all the visited houses. The array could look like [[x1, y1], [x2, y2], [x3, y3]] and so on,
+     * but this would force us to call an array_unique function to determine how many unique houses Santa has visited.
+     * Instead, we are going to store the coordinates in a 2D-array, such that every key in the array represents a y-coordinate
+     * and every y-coordinate contains another array where every key in THAT array represents an x-coordinate, like $map[$y][$x].
+     *
      * It doesn't matter where Santa starts, but x = 0 and y = 0 seems natural.
      * It also has no impact if moving up increases or decreases the y-value or moving left increases or decreases the x-value.
      * You just need to be consistent.
@@ -34,8 +37,8 @@
      * ** SPOILER **
      * In part 2 we do the same thing as in part 1, except we get help from Robo-Santa.
      * Santa does the first move, and from there on Santa and Robo-Santa take turns moving.
-     * We keep track of Santa's and Robo-Santa's position in the same array. Santa gets index 0 and Robo-Santa gets index 1.
-     * To keep track of whose turn it is we do modulo on the current move index. If the result is even, it's Santa's turn, otherwise it's Robo-Santa's turn.
+     * We keep track of Santa's and Robo-Santa's position in one array, where Santa gets index 0 and Robo-Santa gets index 1.
+     * To keep track of whose turn it is we do modulo on the current move index (<index> % 2). If the result is even, it's Santa's turn, otherwise it's Robo-Santa's turn.
      */
     function solve($input, $part2 = false) {
         $moveCount = strlen($input); // Get move count
@@ -54,6 +57,7 @@
         
         
         
+        // Start moving around
         for ($i = 0; $i < $moveCount; $i++) {
             $whoseTurn = $i % $santaCount; // Is it Santa's or Robo-Santa's turn?
             
@@ -83,7 +87,7 @@
             
             
             
-            // If there is no gift in the current house, put one in and increase gift counter
+            // If there is no gift in the current house, put one in, store it in the array and increase gift counter
             if (!isset($map[$pos[$whoseTurn][1]][$pos[$whoseTurn][0]])) {
                 $map[$pos[$whoseTurn][1]][$pos[$whoseTurn][0]] = 1;
                 $giftCount++;
