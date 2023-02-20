@@ -6,3 +6,4 @@
 | [02](02.php) | *[I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2)*      |
 | [03](03.php) | *[Perfectly Spherical Houses in a Vacuum](https://adventofcode.com/2015/day/3)* |
 | [04](04.php) | *[The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)*             |
+| [05](05.php) | *[Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5)* |
