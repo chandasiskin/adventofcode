@@ -8,3 +8,4 @@
 | [04](04.php) | *[The Ideal Stocking Stuffer](https://adventofcode.com/2015/day/4)*             |
 | [05](05.php) | *[Doesn't He Have Intern-Elves For This?](https://adventofcode.com/2015/day/5)* |
 | [06](06.php) | *[Probably a Fire Hazard](https://adventofcode.com/2015/day/6)*                 |
+| [07](07.php) | *[Some Assembly Required](https://adventofcode.com/2015/day/7)*                 |
