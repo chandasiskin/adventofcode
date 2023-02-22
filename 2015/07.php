@@ -27,7 +27,14 @@
      * If there are unknown variables on the row, we keep it.
      * If all variables are known, we calculate and store the result in another array
      * It's important to note that the highest allowed number is a 16-bit number (65535 in decimal, 1111 1111 1111 1111 in binary).
-     * That means we need to keep our eyes open during "NOT" and "LSHIFT" operations. We control this by applying an AND with 16 ones after the first operation.
+     * That means we need to keep our eyes open during "NOT" and "LSHIFT" operations because PHP, as default, works with 32-bit numbers.
+     * This means that "NOT 10 (2 in decimal)" doesn't result in "01 (1 in binary)" as excepted, but instead
+     * "1111 1111 1111 1111 1111 1111 1111 1101 (4294967293 in decimal)". This is because "10 (2 in decimal)" is treated as
+     * "0000 0000 0000 0000 0000 0000 0000 0010". PHP doesn't display the leading zeroes when working with binary.
+     * We control this by applying an AND with 16 ones after the first operation. This means that
+     * NOT "0000 0000 0000 0000 0000 0000 0000 0010" results in "1111 1111 1111 1111 1111 1111 1111 1101" and when we do
+     * "1111 1111 1111 1111 1111 1111 1111 1101 AND 1111 1111 1111 1111" (which really is 0000 0000 0000 0000 1111 1111 1111 1111)
+     * we get 0000 0000 0000 0000 1111 1111 1111 1101, or 1111 1111 1111 1101.
      *
      *
      *
