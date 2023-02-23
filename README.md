@@ -32,4 +32,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [06](2015/06.php) | *[Probably a Fire Hazard](https://adventofcode.com/2015/day/6)*                 |
 | [07](2015/07.php) | *[Some Assembly Required](https://adventofcode.com/2015/day/7)*                 |
 | [08](2015/08.php) | *[Matchsticks](https://adventofcode.com/2015/day/8)*                            |
+| [09](2015/09.php) | *[All in a Single Night](https://adventofcode.com/2015/day/9)*                  |
 </details>
