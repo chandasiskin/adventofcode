@@ -11,3 +11,4 @@
 | [07](07.php) | *[Some Assembly Required](https://adventofcode.com/2015/day/7)*                 |
 | [08](08.php) | *[Matchsticks](https://adventofcode.com/2015/day/8)*                            |
 | [09](09.php) | *[All in a Single Night](https://adventofcode.com/2015/day/9)*                  |
+| [10](10.php) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)*                 |
