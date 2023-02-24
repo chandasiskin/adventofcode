@@ -16,7 +16,7 @@
     if (!is_file("10.txt")) { // If file is missing, terminate
         die("Missing file 10.txt");
     } else {
-        $input = file("10.txt"); // Save file as a string
+        $input = file_get_contents("10.txt"); // Save file as a string
     }
     
     
@@ -90,7 +90,7 @@
     
     // Solve part 1
     $start = microtime(true);
-    $res = solve($input[0]);
+    $res = solve($input);
     echo "Part 1: " . $res[0] . " and" . PHP_EOL;
     
     
