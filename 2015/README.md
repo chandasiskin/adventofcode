@@ -13,4 +13,5 @@
 | [09](09.php) | *[All in a Single Night](https://adventofcode.com/2015/day/9)*                  |
 | [10](10.php) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)*                 |
 | [11](11.php) | *[Corporate Policy](https://adventofcode.com/2015/day/11)*                      |
-| [12](12.php) | *[JSAbacusFramework.io](https://adventofcode.com/2015/day/12)*                 |
+| [12](12.php) | *[JSAbacusFramework.io](https://adventofcode.com/2015/day/12)*                  |
+| [13](13.php) | *[Knights of the Dinner Table](https://adventofcode.com/2015/day/13)*           |
