@@ -36,4 +36,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [10](2015/10.php) | *[Elves Look, Elves Say](https://adventofcode.com/2015/day/10)*                 |
 | [11](2015/11.php) | *[Corporate Policy](https://adventofcode.com/2015/day/11)*                      |
 | [12](2015/12.php) | *[JSAbacusFramework.io](https://adventofcode.com/2015/day/12)*                  |
+| [13](2015/13.php) | *[Knights of the Dinner Table](https://adventofcode.com/2015/day/13)*           |
 </details>
