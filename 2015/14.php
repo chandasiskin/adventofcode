@@ -33,7 +33,7 @@
      * During part 1, we also keep track of who is in the lead every second and reward a point to the leader.
      * If multiple leaders, they all get a point. The winner is the one with the most points.
      */
-    function solve($input, $part2 = false) {
+    function solve($input) {
         $reindeers = []; // Holds reindeer data
         $distance = []; // Store how far every reindeer traveled
         $points = []; // Stores every reindeer's accumulated points
@@ -105,6 +105,4 @@
     
     
     // Solve part 2
-    $part2 = true;
-    //$start = microtime(true);
     echo "Part 2: " . $res[1] . " (solved in " . (microtime(true) - $start) . " seconds)";
