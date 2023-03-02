@@ -39,4 +39,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [13](2015/13.php) | *[Knights of the Dinner Table](https://adventofcode.com/2015/day/13)*           |
 | [14](2015/14.php) | *[Reindeer Olympics](https://adventofcode.com/2015/day/14)*                     |
 | [15](2015/15.php) | *[Science for Hungry People](https://adventofcode.com/2015/day/15)*             |
+| [16](2015/16.php) | *[Aunt Sue](https://adventofcode.com/2015/day/16)*                              |
 </details>
