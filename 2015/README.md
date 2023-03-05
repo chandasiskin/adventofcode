@@ -18,5 +18,5 @@
 | [14](14.php) | *[Reindeer Olympics](https://adventofcode.com/2015/day/14)*                     |
 | [15](15.php) | *[Science for Hungry People](https://adventofcode.com/2015/day/15)*             |
 | [16](16.php) | *[Aunt Sue](https://adventofcode.com/2015/day/16)*                              |
-| *not solved* | *[No Such Thing as Too Much](https://adventofcode.com/2015/day/17)*             |
+| [17](17.php) | *[No Such Thing as Too Much](https://adventofcode.com/2015/day/17)*             |
 | [18](18.php) | *[Like a GIF For Your Yard](https://adventofcode.com/2015/day/18)*              |
