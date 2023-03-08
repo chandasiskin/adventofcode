@@ -20,3 +20,4 @@
 | [16](16.php) | *[Aunt Sue](https://adventofcode.com/2015/day/16)*                              |
 | [17](17.php) | *[No Such Thing as Too Much](https://adventofcode.com/2015/day/17)*             |
 | [18](18.php) | *[Like a GIF For Your Yard](https://adventofcode.com/2015/day/18)*              |
+| [19](19.php) | *[Medicine for Rudolph](https://adventofcode.com/2015/day/19)*              |
