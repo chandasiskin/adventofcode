@@ -22,3 +22,4 @@
 | [18](18.php) | *[Like a GIF For Your Yard](https://adventofcode.com/2015/day/18)*              |
 | [19](19.php) | *[Medicine for Rudolph](https://adventofcode.com/2015/day/19)*                  |
 | [20](20.php) | *[Infinite Elves and Infinite Houses](https://adventofcode.com/2015/day/20)*    |
+| [21](21.php) | *[RPG Simulator 20XX](https://adventofcode.com/2015/day/21)*                    |
