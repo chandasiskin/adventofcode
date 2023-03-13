@@ -23,3 +23,5 @@
 | [19](19.php) | *[Medicine for Rudolph](https://adventofcode.com/2015/day/19)*                  |
 | [20](20.php) | *[Infinite Elves and Infinite Houses](https://adventofcode.com/2015/day/20)*    |
 | [21](21.php) | *[RPG Simulator 20XX](https://adventofcode.com/2015/day/21)*                    |
+|  *not finished*   | *[Wizard Simulator 20XX](https://adventofcode.com/2015/day/22)*                 |
+| [23](23.php) | *[Opening the Turing Lock](https://adventofcode.com/2015/day/23)*               |
