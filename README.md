@@ -45,4 +45,6 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [19](2015/19.php) | *[Medicine for Rudolph](https://adventofcode.com/2015/day/19)*                  |
 | [20](2015/20.php) | *[Infinite Elves and Infinite Houses](https://adventofcode.com/2015/day/20)*    |
 | [21](2015/21.php) | *[RPG Simulator 20XX](https://adventofcode.com/2015/day/21)*                    |
+|  *not finished*   | *[Wizard Simulator 20XX](https://adventofcode.com/2015/day/22)*                 |
+| [23](2015/23.php) | *[Opening the Turing Lock](https://adventofcode.com/2015/day/23)*               |
 </details>
