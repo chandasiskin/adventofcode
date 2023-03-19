@@ -47,6 +47,6 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [21](2015/21.php) | *[RPG Simulator 20XX](https://adventofcode.com/2015/day/21)*                    |
 | [22](2015/22.php) | *[Wizard Simulator 20XX](https://adventofcode.com/2015/day/22)*                 |
 | [23](2015/23.php) | *[Opening the Turing Lock](https://adventofcode.com/2015/day/23)*               |
-|   *not solved*    | *[Opening the Turing Lock](https://adventofcode.com/2015/day/24)*               |
+|   *not solved*    | *[It Hangs in the Balance](https://adventofcode.com/2015/day/24)*               |
 | [25](2015/25.php) | *[Let It Snow](https://adventofcode.com/2015/day/25)*                           |
 </details>
