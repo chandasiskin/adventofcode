@@ -1,11 +1,12 @@
 <?php
     /**
-     * https://adventofcode.com/2015/day/21
+     * https://adventofcode.com/2015/day/25
      *
      *
      *
-     * Little Henry Case got a new video game for Christmas. It's an RPG, and he's stuck on a boss.
-     * He needs to know what equipment to buy at the shop. He hands you the controller.
+     * Merry Christmas! Santa is booting up his weather machine; looks like you might get a white Christmas after all.
+     * The weather machine beeps! On the console of the machine is a copy protection message asking you to enter a code from the instruction manual.
+     * Apparently, it refuses to run unless you give it that code.
      */
     
     
@@ -22,50 +23,54 @@
     
     
     /**
-     * We're fighting a dragon. We take turns attacking each other where we always make the first attack.
-     * Whoever reaches below 1 hp first, dies.
-     * For help, we can buy gear. Rules say that we must have one weapon, and one only.
-     * We can have an armor, but it's optional. We can also equip up to 2 different rings, but these are also optional.
-     * We build the weapons-, armors- and ring-arrays like [<cost>, <attack>, <armor>] and our and dragons stats
-     * as [<hp>, <attack>, <armor>].
-     * We try every single build by nesting loops with one loop for the weapons, one loop for armors, one loop for one of the rings
-     * and a fourth loop for the second ring.
-     * For every round, we check how many rounds we and the dragon can survive. Since we attack first every round, it's enough
-     * for us to survive at least as many rounds as the dragon.
-     * Part 1 is to calculate how little money we can use and still survive.
+     * We need to calculate the value at the row and column mentioned in the input-file.
+     * To get that value at those coordinates, we need to calculate every value up to that point.
+     * The problem is that the path to said coordinates isn't straight, but diagonal, from bottom to top-right.
+     * Each column is represented by an x-coordinate and each row is represented by a y-coordinate.
+     * Every diagonal starts at the left-most column, x = 1. The first number is at x = 1 and y = n (where n > 0).
+     * For this example, lets say that n = 4. So, the first number in order goes to pos [4,1] (x = 1 and y = 4).
+     * The number after that goes to [3,2], the next goes to [2,3] and the last, to complete the diagonal, goes to [1,4].
+     * It would look like this (where the numbers on the top represents the column-number [x-coordinate], the numbers
+     * to the left represents the row-number [y-coordinate] and the letters represents the value on that coordinate):
+     *    1 2 3 4
+     *   ________
+     * 1| . . . d
+     * 2| . . c
+     * 3| . b
+     * 4| a
      *
-     *
-     *
-     * ** SPOILER **
-     * Part 2 is how much money we can spend and still not survive.
+     * To follow the pattern we keep incrementing the x-coordinate and decrement the y-coordinate after every value-calculation
+     * until we reach y = 1. When that happens, we reset x-coordinate back to 1 and set y-coordinate to one larger than the previous starting value.
+     * This means, if we started at [4,1], once we reach [1,4], the next starting point will be at [4+1,1] = [5,1].
+     * The value is calculated by starting with '20151125' and for every new coordinate we multiply the current value by '252533',
+     * divide the result by '33554393' and store the remainder as the new value.
      */
     function solve($input) {
-        preg_match_all("/\d+/", $input, $matches);
-        $coords = array_map("intval", $matches[0]);
-        $number = 20151125;
-        $y = $x = 1;
-        $yMax = 2;
+        preg_match_all("/\d+/", $input, $matches); // Get the coordinates
+        $coords = array_map("intval", $matches[0]); // Turn coordinates into integers [<y-coordinate>,<x-coordinate]
+        $value = 20151125; // Starting value
+        $y = $x = 1; // Coordinates of the starting value
+        $yMax = $y + 1; // Next row number when a new diagonal starts
         
         
         
-        do {
-            if ($y === $coords[0] && $x === $coords[1]) {
-                return $number;
-            }
+        // Loop until we find our coordinates
+        while ($y !== $coords[0] || $x !== $coords[1]) {
+            $y--; // Jump to row above
+            $x++; // Jump to column to the right
+            $value = ($value * 252533) % 33554393; // Calculate the new value
             
-            
-            
-            //$arr[$y][$x] = $number;
-            $y--;
-            $x++;
-            $number = ($number * 252533) % 33554393;
-            
+            // If we reach the top row, start a new diagonal below the last starting row
             if ($y < 1) {
-                $y = $yMax;
-                $yMax++;
-                $x = 1;
+                $y = $yMax; // Set the new starting row
+                $yMax++; // Increase the next starting row
+                $x = 1; // Set starting column to the left-most
             }
-        } while (true);
+        }
+        
+        
+        
+        return $value;
     }
     
     
