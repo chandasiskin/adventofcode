@@ -50,3 +50,13 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 |   *not solved*    | *[It Hangs in the Balance](https://adventofcode.com/2015/day/24)*               |
 | [25](2015/25.php) | *[Let It Snow](https://adventofcode.com/2015/day/25)*                           |
 </details>
+
+
+
+<details>
+  <summary><h3>2016</h3> (<i>click to expand</i>)</summary>
+
+|     SOLUTION      | PUZZLE                                                  |
+|:-----------------:|:--------------------------------------------------------|
+| [01](2016/01.php) | *[No Time for a Taxicab](https://adventofcode.com/2016/day/1)* |
+</details>
