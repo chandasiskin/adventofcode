@@ -27,4 +27,3 @@
 | [23](23.php) | *[Opening the Turing Lock](https://adventofcode.com/2015/day/23)*               |
 | *not solved* | *[It Hangs in the Balance](https://adventofcode.com/2015/day/24)*               |
 | [25](25.php) | *[Let It Snow](https://adventofcode.com/2015/day/25)*                           |
-<
