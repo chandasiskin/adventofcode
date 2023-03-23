@@ -56,10 +56,11 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 <details>
   <summary><h3>2016</h3> (<i>click to expand</i>)</summary>
 
-|     SOLUTION      | PUZZLE                                                              |
-|:-----------------:|:--------------------------------------------------------------------|
-| [01](2016/01.php) | *[No Time for a Taxicab](https://adventofcode.com/2016/day/1)*      |
-| [02](2016/02.php) | *[Bathroom Security](https://adventofcode.com/2016/day/2)*          |
-| [03](2016/03.php) | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*   |
-| [04](2016/04.php) | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)* |
+|     SOLUTION      | PUZZLE                                                                   |
+|:-----------------:|:-------------------------------------------------------------------------|
+| [01](2016/01.php) | *[No Time for a Taxicab](https://adventofcode.com/2016/day/1)*           |
+| [02](2016/02.php) | *[Bathroom Security](https://adventofcode.com/2016/day/2)*               |
+| [03](2016/03.php) | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*        |
+| [04](2016/04.php) | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)*      |
+| [05](2016/05.php) | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)* |
 </details>
