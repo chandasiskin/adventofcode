@@ -7,3 +7,4 @@
 | [03](03.php) | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*        |
 | [04](04.php) | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)*      |
 | [05](05.php) | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)* |
+| [06](06.php) | *[Signals and Noise](https://adventofcode.com/2016/day/6)*               |
