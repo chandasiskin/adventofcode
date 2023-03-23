@@ -63,4 +63,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [03](2016/03.php) | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*        |
 | [04](2016/04.php) | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)*      |
 | [05](2016/05.php) | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)* |
+| [06](2016/06.php) | *[Signals and Noise](https://adventofcode.com/2016/day/6)*               |
 </details>
