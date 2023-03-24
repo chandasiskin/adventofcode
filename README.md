@@ -65,4 +65,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [05](2016/05.php) | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)* |
 | [06](2016/06.php) | *[Signals and Noise](https://adventofcode.com/2016/day/6)*               |
 | [07](2016/07.php) | *[Internet Protocol Version 7](https://adventofcode.com/2016/day/7)*     |
+| [08](2016/08.php) | *[Two-Factor Authentication](https://adventofcode.com/2016/day/8)*       |
 </details>
