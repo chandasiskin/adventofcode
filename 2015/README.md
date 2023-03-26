@@ -25,5 +25,5 @@
 | [21](21.php) | *[RPG Simulator 20XX](https://adventofcode.com/2015/day/21)*                    |
 | [22](22.php) | *[Wizard Simulator 20XX](https://adventofcode.com/2015/day/22)*                 |
 | [23](23.php) | *[Opening the Turing Lock](https://adventofcode.com/2015/day/23)*               |
-| *not solved* | *[It Hangs in the Balance](https://adventofcode.com/2015/day/24)*               |
+| [24](24.php) | *[It Hangs in the Balance](https://adventofcode.com/2015/day/24)*               |
 | [25](25.php) | *[Let It Snow](https://adventofcode.com/2015/day/25)*                           |
