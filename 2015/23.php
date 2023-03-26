@@ -177,7 +177,7 @@
     
     // Solve part 1
     $start = microtime(true);
-    echo "Part 2: " . solve($input) . " (solved in " . (microtime(true) - $start) . " seconds)" . PHP_EOL;
+    echo "Part 1: " . solve($input) . " (solved in " . (microtime(true) - $start) . " seconds)" . PHP_EOL;
     
     
     
