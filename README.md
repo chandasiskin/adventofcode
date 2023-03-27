@@ -67,4 +67,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [07](2016/07.php) | *[Internet Protocol Version 7](https://adventofcode.com/2016/day/7)*     |
 | [08](2016/08.php) | *[Two-Factor Authentication](https://adventofcode.com/2016/day/8)*       |
 | [09](2016/09.php) | *[Explosives in Cyberspace](https://adventofcode.com/2016/day/9)*        |
+| [10](2016/10.php) | *[Balance Bots](https://adventofcode.com/2016/day/10)*                   |
 </details>
