@@ -11,3 +11,4 @@
 | [07](07.php) | *[Internet Protocol Version 7](https://adventofcode.com/2016/day/7)*     |
 | [08](08.php) | *[Two-Factor Authentication](https://adventofcode.com/2016/day/8)*       |
 | [09](09.php) | *[Explosives in Cyberspace](https://adventofcode.com/2016/day/9)*        |
+| [10](10.php) | *[Balance Bots](https://adventofcode.com/2016/day/10)*                   |
