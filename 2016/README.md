@@ -1,14 +1,17 @@
 # 2016
 
-|   SOLUTION   | PUZZLE                                                                   |
-|:------------:|:-------------------------------------------------------------------------|
-| [01](01.php) | *[No Time for a Taxicab](https://adventofcode.com/2016/day/1)*           |
-| [02](02.php) | *[Bathroom Security](https://adventofcode.com/2016/day/2)*               |
-| [03](03.php) | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*        |
-| [04](04.php) | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)*      |
-| [05](05.php) | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)* |
-| [06](06.php) | *[Signals and Noise](https://adventofcode.com/2016/day/6)*               |
-| [07](07.php) | *[Internet Protocol Version 7](https://adventofcode.com/2016/day/7)*     |
-| [08](08.php) | *[Two-Factor Authentication](https://adventofcode.com/2016/day/8)*       |
-| [09](09.php) | *[Explosives in Cyberspace](https://adventofcode.com/2016/day/9)*        |
-| [10](10.php) | *[Balance Bots](https://adventofcode.com/2016/day/10)*                   |
+|        SOLUTION         | PUZZLE                                                                           |
+|:-----------------------:|:---------------------------------------------------------------------------------|
+|      [01](01.php)       | *[No Time for a Taxicab](https://adventofcode.com/2016/day/1)*                   |
+|      [02](02.php)       | *[Bathroom Security](https://adventofcode.com/2016/day/2)*                       |
+|      [03](03.php)       | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*                |
+|      [04](04.php)       | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)*              |
+|      [05](05.php)       | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)*         |
+|      [06](06.php)       | *[Signals and Noise](https://adventofcode.com/2016/day/6)*                       |
+|      [07](07.php)       | *[Internet Protocol Version 7](https://adventofcode.com/2016/day/7)*             |
+|      [08](08.php)       | *[Two-Factor Authentication](https://adventofcode.com/2016/day/8)*               |
+|      [09](09.php)       | *[Explosives in Cyberspace](https://adventofcode.com/2016/day/9)*                |
+|      [10](10.php)       | *[Balance Bots](https://adventofcode.com/2016/day/10)*                           |
+| *working on a solution* | *[Radioisotope Thermoelectric Generators](https://adventofcode.com/2016/day/11)* |
+|      [12](12.php)       | *[Leonardo's Monorail](https://adventofcode.com/2016/day/12)*                    |
+<
