@@ -72,4 +72,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 |    [12](2016/12.php)    | *[Leonardo's Monorail](https://adventofcode.com/2016/day/12)*                    |
 |    [13](2016/13.php)    | *[A Maze of Twisty Little Cubicles](https://adventofcode.com/2016/day/13)*       |
 |    [14](2016/14.php)    | *[One-Time Pad](https://adventofcode.com/2016/day/14)*                           |
+|    [15](2016/15.php)    | *[Timing is Everything](https://adventofcode.com/2016/day/15)*                   |
 </details>
