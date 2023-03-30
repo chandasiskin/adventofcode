@@ -15,4 +15,4 @@
 | *working on a solution* | *[Radioisotope Thermoelectric Generators](https://adventofcode.com/2016/day/11)* |
 |      [12](12.php)       | *[Leonardo's Monorail](https://adventofcode.com/2016/day/12)*                    |
 |      [13](13.php)       | *[A Maze of Twisty Little Cubicles](https://adventofcode.com/2016/day/13)*       |
-<
+|      [14](14.php)       | *[One-Time Pad](https://adventofcode.com/2016/day/14)*                           |
