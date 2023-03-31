@@ -74,4 +74,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 |    [14](2016/14.php)    | *[One-Time Pad](https://adventofcode.com/2016/day/14)*                           |
 |    [15](2016/15.php)    | *[Timing is Everything](https://adventofcode.com/2016/day/15)*                   |
 |    [16](2016/16.php)    | *[Dragon Checksum](https://adventofcode.com/2016/day/16)*                        |
+|    [17](2016/17.php)    | *[Two Steps Forward](https://adventofcode.com/2016/day/17)*                      |
 </details>
