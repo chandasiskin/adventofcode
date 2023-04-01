@@ -19,3 +19,4 @@
 |      [15](15.php)       | *[Timing is Everything](https://adventofcode.com/2016/day/15)*                   |
 |      [16](16.php)       | *[Dragon Checksum](https://adventofcode.com/2016/day/16)*                        |
 |      [17](17.php)       | *[Two Steps Forward](https://adventofcode.com/2016/day/17)*                      |
+|      [18](18.php)       | *[Like a Rogue](https://adventofcode.com/2016/day/18)*                           |
