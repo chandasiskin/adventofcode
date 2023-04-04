@@ -21,3 +21,4 @@
 |      [17](17.php)       | *[Two Steps Forward](https://adventofcode.com/2016/day/17)*                      |
 |      [18](18.php)       | *[Like a Rogue](https://adventofcode.com/2016/day/18)*                           |
 |      [19](19.php)       | *[An Elephant Named Joseph](https://adventofcode.com/2016/day/19)*               |
+|      [20](20.php)       | *[Firewall Rules](https://adventofcode.com/2016/day/20)*                         |
