@@ -78,4 +78,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 |    [18](2016/18.php)    | *[Like a Rogue](https://adventofcode.com/2016/day/18)*                           |
 |    [19](2016/19.php)    | *[An Elephant Named Joseph](https://adventofcode.com/2016/day/19)*               |
 |    [20](2016/20.php)    | *[Firewall Rules](https://adventofcode.com/2016/day/20)*                         |
+|    [21](2016/21.php)    | *[Scrambled Letters and Hash](https://adventofcode.com/2016/day/21)*             |
 </details>
