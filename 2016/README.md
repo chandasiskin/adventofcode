@@ -23,3 +23,4 @@
 |      [19](19.php)       | *[An Elephant Named Joseph](https://adventofcode.com/2016/day/19)*               |
 |      [20](20.php)       | *[Firewall Rules](https://adventofcode.com/2016/day/20)*                         |
 |      [21](21.php)       | *[Scrambled Letters and Hash](https://adventofcode.com/2016/day/21)*             |
+|      [22](22.php)       | *[Grid Computing](https://adventofcode.com/2016/day/22)*                         |
