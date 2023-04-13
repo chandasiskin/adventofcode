@@ -24,3 +24,5 @@
 |      [20](20.php)       | *[Firewall Rules](https://adventofcode.com/2016/day/20)*                         |
 |      [21](21.php)       | *[Scrambled Letters and Hash](https://adventofcode.com/2016/day/21)*             |
 |      [22](22.php)       | *[Grid Computing](https://adventofcode.com/2016/day/22)*                         |
+| *working on a solution* | *[Safe Cracking](https://adventofcode.com/2016/day/23)*                          |
+|      [24](24.php)       | *[Air Duct Spelunking](https://adventofcode.com/2016/day/24)*                    |
