@@ -84,3 +84,13 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 |    [24](2016/24.php)    | *[Air Duct Spelunking](https://adventofcode.com/2016/day/24)*                    |
 |    [25](2016/25.php)    | *[Clock Signal](https://adventofcode.com/2016/day/25)*                           |
 </details>
+
+
+
+<details>
+  <summary><h3>2017</h3> (<i>click to expand</i>)</summary>
+
+|     SOLUTION      | PUZZLE                                                   |
+|:-----------------:|:---------------------------------------------------------|
+| [01](2017/01.php) | *[Inverse Captcha](https://adventofcode.com/2017/day/1)* |
+</details>
