@@ -56,33 +56,33 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 <details>
   <summary><h3>2016</h3> (<i>click to expand</i>)</summary>
 
-|        SOLUTION         | PUZZLE                                                                           |
-|:-----------------------:|:---------------------------------------------------------------------------------|
-|    [01](2016/01.php)    | *[No Time for a Taxicab](https://adventofcode.com/2016/day/1)*                   |
-|    [02](2016/02.php)    | *[Bathroom Security](https://adventofcode.com/2016/day/2)*                       |
-|    [03](2016/03.php)    | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*                |
-|    [04](2016/04.php)    | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)*              |
-|    [05](2016/05.php)    | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)*         |
-|    [06](2016/06.php)    | *[Signals and Noise](https://adventofcode.com/2016/day/6)*                       |
-|    [07](2016/07.php)    | *[Internet Protocol Version 7](https://adventofcode.com/2016/day/7)*             |
-|    [08](2016/08.php)    | *[Two-Factor Authentication](https://adventofcode.com/2016/day/8)*               |
-|    [09](2016/09.php)    | *[Explosives in Cyberspace](https://adventofcode.com/2016/day/9)*                |
-|    [10](2016/10.php)    | *[Balance Bots](https://adventofcode.com/2016/day/10)*                           |
-| *working on a solution* | *[Radioisotope Thermoelectric Generators](https://adventofcode.com/2016/day/11)* |
-|    [12](2016/12.php)    | *[Leonardo's Monorail](https://adventofcode.com/2016/day/12)*                    |
-|    [13](2016/13.php)    | *[A Maze of Twisty Little Cubicles](https://adventofcode.com/2016/day/13)*       |
-|    [14](2016/14.php)    | *[One-Time Pad](https://adventofcode.com/2016/day/14)*                           |
-|    [15](2016/15.php)    | *[Timing is Everything](https://adventofcode.com/2016/day/15)*                   |
-|    [16](2016/16.php)    | *[Dragon Checksum](https://adventofcode.com/2016/day/16)*                        |
-|    [17](2016/17.php)    | *[Two Steps Forward](https://adventofcode.com/2016/day/17)*                      |
-|    [18](2016/18.php)    | *[Like a Rogue](https://adventofcode.com/2016/day/18)*                           |
-|    [19](2016/19.php)    | *[An Elephant Named Joseph](https://adventofcode.com/2016/day/19)*               |
-|    [20](2016/20.php)    | *[Firewall Rules](https://adventofcode.com/2016/day/20)*                         |
-|    [21](2016/21.php)    | *[Scrambled Letters and Hash](https://adventofcode.com/2016/day/21)*             |
-|    [22](2016/22.php)    | *[Grid Computing](https://adventofcode.com/2016/day/22)*                         |
-|    [23](2016/23.php)    | *[Safe Cracking](https://adventofcode.com/2016/day/23)*                          |
-|    [24](2016/24.php)    | *[Air Duct Spelunking](https://adventofcode.com/2016/day/24)*                    |
-|    [25](2016/25.php)    | *[Clock Signal](https://adventofcode.com/2016/day/25)*                           |
+|     SOLUTION      | PUZZLE                                                                           |
+|:-----------------:|:---------------------------------------------------------------------------------|
+| [01](2016/01.php) | *[No Time for a Taxicab](https://adventofcode.com/2016/day/1)*                   |
+| [02](2016/02.php) | *[Bathroom Security](https://adventofcode.com/2016/day/2)*                       |
+| [03](2016/03.php) | *[Squares With Three Sides](https://adventofcode.com/2016/day/3)*                |
+| [04](2016/04.php) | *[Security Through Obscurity](https://adventofcode.com/2016/day/4)*              |
+| [05](2016/05.php) | *[How About a Nice Game of Chess?](https://adventofcode.com/2016/day/5)*         |
+| [06](2016/06.php) | *[Signals and Noise](https://adventofcode.com/2016/day/6)*                       |
+| [07](2016/07.php) | *[Internet Protocol Version 7](https://adventofcode.com/2016/day/7)*             |
+| [08](2016/08.php) | *[Two-Factor Authentication](https://adventofcode.com/2016/day/8)*               |
+| [09](2016/09.php) | *[Explosives in Cyberspace](https://adventofcode.com/2016/day/9)*                |
+| [10](2016/10.php) | *[Balance Bots](https://adventofcode.com/2016/day/10)*                           |
+| [11](2016/11.php) | *[Radioisotope Thermoelectric Generators](https://adventofcode.com/2016/day/11)* |
+| [12](2016/12.php) | *[Leonardo's Monorail](https://adventofcode.com/2016/day/12)*                    |
+| [13](2016/13.php) | *[A Maze of Twisty Little Cubicles](https://adventofcode.com/2016/day/13)*       |
+| [14](2016/14.php) | *[One-Time Pad](https://adventofcode.com/2016/day/14)*                           |
+| [15](2016/15.php) | *[Timing is Everything](https://adventofcode.com/2016/day/15)*                   |
+| [16](2016/16.php) | *[Dragon Checksum](https://adventofcode.com/2016/day/16)*                        |
+| [17](2016/17.php) | *[Two Steps Forward](https://adventofcode.com/2016/day/17)*                      |
+| [18](2016/18.php) | *[Like a Rogue](https://adventofcode.com/2016/day/18)*                           |
+| [19](2016/19.php) | *[An Elephant Named Joseph](https://adventofcode.com/2016/day/19)*               |
+| [20](2016/20.php) | *[Firewall Rules](https://adventofcode.com/2016/day/20)*                         |
+| [21](2016/21.php) | *[Scrambled Letters and Hash](https://adventofcode.com/2016/day/21)*             |
+| [22](2016/22.php) | *[Grid Computing](https://adventofcode.com/2016/day/22)*                         |
+| [23](2016/23.php) | *[Safe Cracking](https://adventofcode.com/2016/day/23)*                          |
+| [24](2016/24.php) | *[Air Duct Spelunking](https://adventofcode.com/2016/day/24)*                    |
+| [25](2016/25.php) | *[Clock Signal](https://adventofcode.com/2016/day/25)*                           |
 </details>
 
 
