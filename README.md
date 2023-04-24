@@ -94,4 +94,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 |:-----------------:|:-------------------------------------------------------------|
 | [01](2017/01.php) | *[Inverse Captcha](https://adventofcode.com/2017/day/1)*     |
 | [02](2017/02.php) | *[Corruption Checksum](https://adventofcode.com/2017/day/2)* |
+| [03](2017/03.php) | *[Spiral Memory](https://adventofcode.com/2017/day/3)*       |
 </details>
