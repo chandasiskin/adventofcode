@@ -90,9 +90,10 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 <details>
   <summary><h3>2017</h3> (<i>click to expand</i>)</summary>
 
-|     SOLUTION      | PUZZLE                                                       |
-|:-----------------:|:-------------------------------------------------------------|
-| [01](2017/01.php) | *[Inverse Captcha](https://adventofcode.com/2017/day/1)*     |
-| [02](2017/02.php) | *[Corruption Checksum](https://adventofcode.com/2017/day/2)* |
-| [03](2017/03.php) | *[Spiral Memory](https://adventofcode.com/2017/day/3)*       |
+|     SOLUTION      | PUZZLE                                                            |
+|:-----------------:|:------------------------------------------------------------------|
+| [01](2017/01.php) | *[Inverse Captcha](https://adventofcode.com/2017/day/1)*          |
+| [02](2017/02.php) | *[Corruption Checksum](https://adventofcode.com/2017/day/2)*      |
+| [03](2017/03.php) | *[Spiral Memory](https://adventofcode.com/2017/day/3)*            |
+| [04](2017/04.php) | *[High-Entropy Passphrases](https://adventofcode.com/2017/day/4)* |
 </details>
