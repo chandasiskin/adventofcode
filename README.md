@@ -97,4 +97,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [03](2017/03.php) | *[Spiral Memory](https://adventofcode.com/2017/day/3)*                           |
 | [04](2017/04.php) | *[High-Entropy Passphrases](https://adventofcode.com/2017/day/4)*                |
 | [05](2017/05.php) | *[A Maze of Twisty Trampolines, All Alike](https://adventofcode.com/2017/day/5)* |
+| [06](2017/06.php) | *[Memory Reallocation](https://adventofcode.com/2017/day/6)*                     |
 </details>
