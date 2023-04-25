@@ -70,15 +70,20 @@
     }
     
     
-    
+    /**
+     * @param $arr array The array to look in for the highest value
+     * @return array Returns the key and the value of the highest value
+     */
     function getMax($arr) {
-        $max = [null, PHP_INT_MIN];
+        $max = [null, PHP_INT_MIN]; // Holds the key of the highest value, and the value itself
         
         
         
+        // Loop through each value
         foreach ($arr as $key => $val) {
+            // If current value is higher than the current highest
             if ($val > $max[1]) {
-                $max = [$key, $val];
+                $max = [$key, $val]; // Store the key and its value
             }
         }
         
