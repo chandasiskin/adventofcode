@@ -9,3 +9,4 @@
 | [05](05.php) | *[A Maze of Twisty Trampolines, All Alike](https://adventofcode.com/2017/day/5)* |
 | [06](06.php) | *[Memory Reallocation](https://adventofcode.com/2017/day/6)*                     |
 | [07](07.php) | *[Recursive Circus](https://adventofcode.com/2017/day/7)*                        |
+| [08](08.php) | *[I Heard You Like Registers](https://adventofcode.com/2017/day/8)*              |
