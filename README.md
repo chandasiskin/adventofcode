@@ -100,4 +100,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [06](2017/06.php) | *[Memory Reallocation](https://adventofcode.com/2017/day/6)*                     |
 | [07](2017/07.php) | *[Recursive Circus](https://adventofcode.com/2017/day/7)*                        |
 | [08](2017/08.php) | *[I Heard You Like Registers](https://adventofcode.com/2017/day/8)*              |
+| [09](2017/09.php) | *[Stream Processing](https://adventofcode.com/2017/day/9)*                       |
 </details>
