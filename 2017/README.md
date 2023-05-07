@@ -11,3 +11,4 @@
 | [07](07.php) | *[Recursive Circus](https://adventofcode.com/2017/day/7)*                        |
 | [08](08.php) | *[I Heard You Like Registers](https://adventofcode.com/2017/day/8)*              |
 | [09](09.php) | *[Stream Processing](https://adventofcode.com/2017/day/9)*                       |
+| [10](10.php) | *[Know Hash](https://adventofcode.com/2017/day/10)*                              |
