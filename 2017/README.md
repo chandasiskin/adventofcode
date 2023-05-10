@@ -13,3 +13,4 @@
 | [09](09.php) | *[Stream Processing](https://adventofcode.com/2017/day/9)*                       |
 | [10](10.php) | *[Know Hash](https://adventofcode.com/2017/day/10)*                              |
 | [11](11.php) | *[Hex Ed](https://adventofcode.com/2017/day/11)*                                 |
+| [12](12.php) | *[Digital Plumber](https://adventofcode.com/2017/day/12)*                        |
