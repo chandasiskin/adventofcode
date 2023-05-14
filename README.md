@@ -104,4 +104,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [10](2017/10.php) | *[Know Hash](https://adventofcode.com/2017/day/10)*                              |
 | [11](2017/11.php) | *[Hex Ed](https://adventofcode.com/2017/day/11)*                                 |
 | [12](2017/12.php) | *[Digital Plumber](https://adventofcode.com/2017/day/12)*                        |
+| [13](2017/13.php) | *[Packet Scanners](https://adventofcode.com/2017/day/13)*                        |
 </details>
