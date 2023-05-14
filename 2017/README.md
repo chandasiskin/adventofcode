@@ -14,3 +14,4 @@
 | [10](10.php) | *[Know Hash](https://adventofcode.com/2017/day/10)*                              |
 | [11](11.php) | *[Hex Ed](https://adventofcode.com/2017/day/11)*                                 |
 | [12](12.php) | *[Digital Plumber](https://adventofcode.com/2017/day/12)*                        |
+| [13](13.php) | *[Packet Scanners](https://adventofcode.com/2017/day/13)*                        |
