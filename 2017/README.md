@@ -15,3 +15,4 @@
 | [11](11.php) | *[Hex Ed](https://adventofcode.com/2017/day/11)*                                 |
 | [12](12.php) | *[Digital Plumber](https://adventofcode.com/2017/day/12)*                        |
 | [13](13.php) | *[Packet Scanners](https://adventofcode.com/2017/day/13)*                        |
+| [14](14.php) | *[Disk Defragmentation](https://adventofcode.com/2017/day/14)*                   |
