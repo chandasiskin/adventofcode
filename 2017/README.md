@@ -16,3 +16,4 @@
 | [12](12.php) | *[Digital Plumber](https://adventofcode.com/2017/day/12)*                        |
 | [13](13.php) | *[Packet Scanners](https://adventofcode.com/2017/day/13)*                        |
 | [14](14.php) | *[Disk Defragmentation](https://adventofcode.com/2017/day/14)*                   |
+| [15](15.php) | *[Dueling Generators](https://adventofcode.com/2017/day/15)*                     |
