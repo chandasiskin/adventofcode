@@ -106,4 +106,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [12](2017/12.php) | *[Digital Plumber](https://adventofcode.com/2017/day/12)*                        |
 | [13](2017/13.php) | *[Packet Scanners](https://adventofcode.com/2017/day/13)*                        |
 | [14](2017/14.php) | *[Disk Defragmentation](https://adventofcode.com/2017/day/14)*                   |
+| [15](2017/15.php) | *[Dueling Generators](https://adventofcode.com/2017/day/15)*                     |
 </details>
