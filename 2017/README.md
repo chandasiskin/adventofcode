@@ -17,3 +17,5 @@
 | [13](13.php) | *[Packet Scanners](https://adventofcode.com/2017/day/13)*                        |
 | [14](14.php) | *[Disk Defragmentation](https://adventofcode.com/2017/day/14)*                   |
 | [15](15.php) | *[Dueling Generators](https://adventofcode.com/2017/day/15)*                     |
+| *working on it* | *[Permutation Promenade](https://adventofcode.com/2017/day/16)*                     |
+| [17](17.php) | *[Spinlock](https://adventofcode.com/2017/day/17)*                     |
