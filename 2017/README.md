@@ -18,3 +18,4 @@
 | [14](14.php) | *[Disk Defragmentation](https://adventofcode.com/2017/day/14)*                   |
 | [15](15.php) | *[Dueling Generators](https://adventofcode.com/2017/day/15)*                     |
 | [16](16.php) | *[Permutation Promenade](https://adventofcode.com/2017/day/16)*                  |
+| [17](17.php) | *[Spinlock](https://adventofcode.com/2017/day/17)*                               |
