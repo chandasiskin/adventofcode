@@ -17,7 +17,7 @@
     if (!is_file("18.txt")) { // If the file is missing, terminate
         die("Missing file 18.txt");
     } else {
-        $input = file("18.txt"); // Save file as a string
+        $input = file("18.txt"); // Save file as an array
     }
     
     
