@@ -109,4 +109,5 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 | [15](2017/15.php) | *[Dueling Generators](https://adventofcode.com/2017/day/15)*                     |
 | [16](2017/16.php) | *[Permutation Promenade](https://adventofcode.com/2017/day/16)*                  |
 | [17](2017/17.php) | *[Spinlock](https://adventofcode.com/2017/day/17)*                               |
+| [18](2017/18.php) | *[Duet](https://adventofcode.com/2017/day/18)*                                   |
 </details>
