@@ -46,6 +46,7 @@
             
             
             
+            // If doing part 2, convert parts of all string-numbers to a digit
             if ($part2) {
                 foreach ($numbers as $k => $v) {
                     $tmp = str_replace($k, $k[0] . $v . $k[strlen($k) - 1], $tmp);
