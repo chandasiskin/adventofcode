@@ -92,4 +92,3 @@
     $part2 = true; // Tells our function to use parts needed to solve part 2
     $start = microtime(true);
     echo "Part 2: " . solve($input, $part2) . " (solved in " . (microtime(true) - $start) . " seconds)";
-    //33728 is too low
