@@ -117,8 +117,9 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 <details>
   <summary><h3>2023</h3> (<i>click to expand</i>)</summary>
 
-|     SOLUTION      | PUZZLE                                                                           |
-|:-----------------:|:---------------------------------------------------------------------------------|
-| [01](2023/01.php) | *[Inverse Captcha](https://adventofcode.com/2017/day/1)*                         |
+|     SOLUTION      | PUZZLE                                                   |
+|:-----------------:|:---------------------------------------------------------|
+| [01](2023/01.php) | *[Inverse Captcha](https://adventofcode.com/2017/day/1)* |
+| [02](2023/02.php) | *[Cube Conundrum](https://adventofcode.com/2023/day/2)*  |
 
 </details>
