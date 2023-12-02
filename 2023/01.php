@@ -28,26 +28,32 @@
      *
      *
      * ** SPOILER **
-     * In part 2 we need to calculate how many moves it takes for Santa to reach the basement (floor -1) for the first time.
-     * Note: Completed moves is current index + 1
+     * Same as part 1, except a number can also be written as text, i.e. "one", "two", and so on
      */
     function solve($input, $part2 = false) {
         $numbers = [
             "one" => 1, "two" => 2, "three" => 3, "four" => 4, "five" => 5,
             "six" => 6, "seven" => 7, "eight" => 8, "nine" => 9
-        ];
-        $res = 0;
+        ]; // Set the value of each number
+        $res = 0; // The grand total
         
         
         
-        // Loop through each row
+        // Loop through each input-row
         foreach ($input as $str) {
-            $tmp = $str;
+            $tmp = $str; // Copy current row
             
             
             
-            // If doing part 2, convert parts of all string-numbers to a digit
+            // If doing part 2, replace all string-numbers with "ABC", where
+            // A = The first letter of the string-number
+            // B = The value of the string number ("one" = 1, "five" = 5)
+            // C = The last letter of the string number.
+            // For example, "one" would end up as "o1e", "three" would turn into "t3e".
+            // This is done because when a string like "eightwo" is sent to regex, it will not find both "eight" and "two",
+            // which is what we want. By turning "eightwo" first to "e8two" and then "e8t2o", that issue is fixed.
             if ($part2) {
+                // Loop through each key in $numbers and replace according to the pattern mentioned above
                 foreach ($numbers as $k => $v) {
                     $tmp = str_replace($k, $k[0] . $v . $k[strlen($k) - 1], $tmp);
                 }
