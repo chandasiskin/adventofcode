@@ -121,5 +121,6 @@ There will always be some puzzles with edge-cases that my code doesn't cover. If
 |:-----------------:|:---------------------------------------------------------|
 | [01](2023/01.php) | *[Inverse Captcha](https://adventofcode.com/2017/day/1)* |
 | [02](2023/02.php) | *[Cube Conundrum](https://adventofcode.com/2023/day/2)*  |
+| [04](2023/04.php) | *[Scratchcards](https://adventofcode.com/2023/day/4)*   |
 
 </details>
