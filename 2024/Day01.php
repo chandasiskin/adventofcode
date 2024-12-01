@@ -5,15 +5,27 @@
         private string $input;
         private array $leftList;
         private array $rightList;
+        private float $startTime;
         
-        public function __construct(string $input) {
-            $this->input = $input;
+        public function __construct(string $path) {
+            $this->startTime = microtime(true);
+            
+            $this->input = trim(file_get_contents($path));
         }
         
-        public function solve(): string {
+        public function solve(): void {
             $this->populateLists();
             
-            return $this->solve1() . PHP_EOL . $this->solve2();
+            $sol1 = $this->solve1();
+            $sol2 = $this->solve2();
+            
+            $elapsedTime = microtime(true) - $this->startTime;
+            $elapsedTimeMicroSeconds = $elapsedTime * 1000;
+            
+            echo
+                "Part 1: {$sol1}" . PHP_EOL .
+                "Part 2: {$sol2}" . PHP_EOL .
+                "Time: {$elapsedTimeMicroSeconds}ms";
         }
         
         private function populateLists(): void {
@@ -58,9 +70,6 @@
         }
     }
     
-    $startTime = microtime(true);
-    $day = new Day01(trim(file_get_contents("puzzle_input.txt")));
-    $res = $day->solve();
-    $elapsedTime = (microtime(true) - $startTime) * 1000;
-    
-    echo $res . PHP_EOL . "{$elapsedTime}ms";
+    $path = "puzzle_input.txt";
+    $day = new Day01($path);
+    $day->solve();
