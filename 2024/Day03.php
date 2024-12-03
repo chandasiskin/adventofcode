@@ -13,11 +13,7 @@
         }
         
         public function solve(): void {
-            $this->findDo();
-            $this->findDont();
-            $this->findMul();
-            
-            ksort($this->positions);
+            $this->prepare();
             
             $sol = $this->solveBoth();
             
@@ -28,6 +24,14 @@
                 "Part 1: {$sol[0]}" . PHP_EOL .
                 "Part 2: {$sol[1]}" . PHP_EOL .
                 "Time: {$elapsedTimeMicroSeconds}ms";
+        }
+        
+        private function prepare(): void {
+            $this->findDo();
+            $this->findDont();
+            $this->findMul();
+            
+            ksort($this->positions);
         }
         
         private function findDo(): void {
