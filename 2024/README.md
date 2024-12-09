@@ -9,3 +9,4 @@
 | [05](Day05.php) | *[Print Queue](https://adventofcode.com/2024/day/5)*                |
 | [06](Day06.php) | *[Guard Gallivant](https://adventofcode.com/2024/day/6) (too slow)* |
 | [07](Day07.php) | *[Bridge Repair](https://adventofcode.com/2024/day/7) (too slow)*   |
+| [08](Day08.php) | *[Resonant Collinearity](https://adventofcode.com/2024/day/8)*      |
