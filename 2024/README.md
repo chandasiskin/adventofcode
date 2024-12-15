@@ -15,3 +15,4 @@
 | [11](Day11.php) | *[Plutonian Pebbles](https://adventofcode.com/2024/day/11) (working on it)* |
 | [12](Day12.php) | *[Garden Groups](https://adventofcode.com/2024/day/12) (working on it)*     |
 | [13](Day13.php) | *[Claw Contraption](https://adventofcode.com/2024/day/13)*                  |
+| [14](Day14.php) | *[Restroom Redoubt](https://adventofcode.com/2024/day/14)*                  |
