@@ -68,21 +68,6 @@
             return array_product($quadrants);
         }
         
-        private function print_robots(): void {
-            for ($y = 0; $y < $this->height; $y++) {
-                for ($x = 0; $x < $this->width; $x++) {
-                    foreach ($this->robots as $robot) {
-                        if ($robot["x"] === $x && $robot["y"] === $y) {
-                            echo "X";
-                            continue 2;
-                        }
-                    }
-                    echo ".";
-                }
-                echo PHP_EOL;
-            }
-        }
-        
         private function solve1(): int {
             $seconds = 100;
             
