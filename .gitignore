@@ -2,3 +2,4 @@ test*
 input
 puzzle_input*
 .idea/
+template.php
