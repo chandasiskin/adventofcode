@@ -23,4 +23,6 @@
 | [19](Day19.php) | *[Linen Layout](https://adventofcode.com/2024/day/19) (not solved, yet)*                     |
 | [20](Day20.php) | *[Race Condition](https://adventofcode.com/2024/day/20) (working on it)*                     |
 | [21](Day21.php) | *[Keypad Conundrum](https://adventofcode.com/2024/day/21) (working on it)*                   |
-| [22](Day22.php) | *[Monkey Market](https://adventofcode.com/2024/day/12) (part 1 too slow, working on part 2)* |
+| [22](Day22.php) | *[Monkey Market](https://adventofcode.com/2024/day/22) (part 1 too slow, working on part 2)* |
+| [23](Day23.php) | *[LAN Party](https://adventofcode.com/2024/day/23) (working on it)*                          |
+| [24](Day24.php) | *[Crossed Wires](https://adventofcode.com/2024/day/24) (working on part 2)*                  |
