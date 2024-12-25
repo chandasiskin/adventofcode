@@ -26,3 +26,4 @@
 | [22](Day22.php) | *[Monkey Market](https://adventofcode.com/2024/day/22) (part 1 too slow, working on part 2)* |
 | [23](Day23.php) | *[LAN Party](https://adventofcode.com/2024/day/23) (working on it)*                          |
 | [24](Day24.php) | *[Crossed Wires](https://adventofcode.com/2024/day/24) (working on part 2)*                  |
+| [25](Day25.php) | *[Code Chronicle](https://adventofcode.com/2024/day/25)                                      |
